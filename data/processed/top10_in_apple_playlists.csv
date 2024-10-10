@@ -1,0 +1,11 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability_%,valence_%,energy_%,acousticness_%,instrumentalness_%,liveness_%,speechiness_%,cover_url
+Blinding Lights,The Weeknd,1,2019,11,29,43899,69,3703895074,672,199,"3,421",20,,171,C#,Major,50,38,80,0,0,9,7,https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36
+One Kiss (with Dua Lipa),"Calvin Harris, Dua Lipa",2,2017,6,2,27705,10,1897517891,537,122,"2,726",6,,124,A,Minor,79,59,86,4,0,8,11,https://i.scdn.co/image/ab67616d0000b273d09f96d82310d4d77c14c108
+Dance Monkey,Tones and I,1,2019,5,10,24529,0,2864791672,533,167,"3,595",6,,98,F#,Minor,82,54,59,69,0,18,10,https://i.scdn.co/image/ab67616d0000b273c6f7af36ecdc3ed6e0a1f169
+Don't Start Now,Dua Lipa,1,2019,10,31,27119,0,2303033973,532,77,"1,535",3,8,124,B,Minor,79,68,79,1,0,10,8,https://i.scdn.co/image/ab67616d0000b27368cd91e1d8cbabf23d332041
+STAY (with Justin Bieber),"Justin Bieber, The Kid Laroi",2,2021,7,9,17050,36,2665343922,492,99,798,31,0,170,C#,Major,59,48,76,4,0,10,5,Not Found
+Seï¿½ï¿½o,"Shawn Mendes, Camila Cabello",2,2019,6,19,15010,2,2484812918,453,50,"1,785",1,8,117,A,Minor,76,77,52,4,0,8,3,Not Found
+Someone You Loved,Lewis Capaldi,1,2018,11,8,17836,53,2887241814,440,125,"1,800",0,,110,C#,Major,50,45,41,75,0,11,3,https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2
+Watermelon Sugar,Harry Styles,1,2019,11,17,21915,34,2322580122,437,115,"1,212",12,,95,,Major,55,56,82,12,0,34,5,https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a
+One Dance,"Drake, WizKid, Kyla",3,2016,4,4,43257,24,2713922350,433,107,"3,631",0,26,104,C#,Major,77,36,63,1,0,36,5,https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c
+As It Was,Harry Styles,1,2022,3,31,23575,130,2513188493,403,198,863,46,,174,F#,Minor,52,66,73,34,0,31,6,https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0
