@@ -11,20 +11,20 @@
 
 ## Sumário
 
-**1.** [Objetivo do Projeto](#objetivo-do-projeto)
+**1.** Objetivo do Projeto
 
-**2.** [Descrição dos Dados](#descrição-dos-dados)
+**2.** Descrição dos Dados
 
-**3.** [Metodologia](#metodologia)
-- 3.1 [Limpeza e Pré-processamento](#limpeza-e-pré-processamento)
-- 3.2 [Análise exploratória de Dados (EDA)](#análise-exploratória-de-dados-eda)
-- 3.3 [Visualizações](#visualizações)
+**3.** Metodologia
+- 3.1 Limpeza e Pré-processamento
+- 3.2 Análise exploratória de Dados (EDA)
+- 3.3 Visualizações
 
-**4.** [Ferramentas e bibliotecas utilizadas](#ferramentas-e-bibliotecas-utilizadas)
+**4.** Ferramentas e bibliotecas utilizadas
 
-**5.** [Considerações e limitações](#considerações-e-limitações)
+**5.** Considerações e limitações
 
-**6.** [Conclusões](#conclusões)
+**6.** Conclusões
 
 
 ## 1. Objetivo do Projeto
